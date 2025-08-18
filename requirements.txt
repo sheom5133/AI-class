@@ -100,8 +100,6 @@ PySocks==1.7.1
 python-dateutil==2.9.0.post0
 python-louvain==0.16
 pytz==2024.2
-pywin32==307
-pywin32-ctypes==0.2.3
 PyYAML==6.0.2
 pyzmq==26.2.0
 qasync==0.27.1
@@ -142,3 +140,4 @@ xlrd==2.0.1
 XlsxWriter==3.2.0
 zipp==3.21.0
 zstandard==0.23.0
+
